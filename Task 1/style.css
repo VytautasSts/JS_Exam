@@ -7,6 +7,19 @@
     'Lucida Sans', Arial, sans-serif;
 }
 
+#output {
+  visibility: hidden;
+  max-width: 80%;
+  margin: 50px auto;
+  display: flex;
+  flex-flow: column;
+  padding: 20px;
+  outline: 0;
+  border: 0;
+  font-size: 1.1em;
+  background-color: #f7f7f7;
+  text-align: center;
+}
 /* Mobile first */
 .wrapper {
   min-height: 100vh;
