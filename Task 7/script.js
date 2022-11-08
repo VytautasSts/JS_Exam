@@ -10,3 +10,12 @@ const audi = {
   year: 2005,
   color: 'white',
 };
+
+let keys = [];
+
+function fetchKeys(audi){
+  keys = Object.keys(audi);
+  console.log(keys);
+}
+
+fetchKeys(audi);
