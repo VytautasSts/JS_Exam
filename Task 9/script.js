@@ -31,3 +31,6 @@ movie.read();
 console.log("Movie tile: "+movie.title);
 console.log("Movie director: " +movie.director);
 console.log("Ar brangus filmas? "+ movie.wasExpensive());
+
+
+/* Coded by V.S. */

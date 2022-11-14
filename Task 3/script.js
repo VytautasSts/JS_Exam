@@ -48,3 +48,5 @@ async function fetchUsers() {
     document.getElementById("message").style.visibility ="collapse";
     document.getElementById("output").style.textAlign = "center";
   }
+
+  /* Coded by V.S. */

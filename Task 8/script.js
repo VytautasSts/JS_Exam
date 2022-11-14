@@ -34,3 +34,5 @@ console.log("A + B = " + calculator.sum());
 console.log("A - B = " + calculator.substraction());
 console.log("A x B = " + calculator.multiplication());
 console.log("A / B = " + (calculator.division()).toFixed(2));
+
+/* Coded by V.S. */

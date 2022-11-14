@@ -10,3 +10,5 @@ function countClicks() {
     let a = toString(count);
     document.getElementById("btn__state").innerHTML = count;
 }
+
+/* Coded by V.S. */
