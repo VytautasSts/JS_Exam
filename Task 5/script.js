@@ -40,3 +40,6 @@ function filterAdults(users){
 
 filterDogOwners(users);
 filterAdults(users);
+
+
+/* Coded by V.S. */

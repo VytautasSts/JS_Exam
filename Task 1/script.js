@@ -37,3 +37,4 @@ function showResult(kg, lb, g, oz) {
     document.getElementById('grams').innerHTML = kg+" kg is equal to "+g+" grams."
     document.getElementById('ounces').innerHTML = kg+" kg is equal to "+oz+" pounds."
 }
+/* Coded by V.S. */
